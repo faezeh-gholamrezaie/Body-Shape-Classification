@@ -1,6 +1,6 @@
 # Body-Shape-Classification
 **Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification**
-
+Article DL-EWF: Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification : [https://arxiv.org/abs/2404.04891]
 This repository provides a PyTorch implementation for classifying body shapes using image segmentation. The goal of this study is to classify body shapes into five categories: Rectangle, Triangle, Inverted Triangle, Hourglass, and Apple, using the Style4BodyShape dataset. for this purpose body shape segmentation masks were extracted. By leveraging the body shape segmentation masks, the model focuses solely on the body shape information while disregarding the surroundings and background. 
 
 ![image](https://github.com/Mahsa33/Body-Shape-Classification/assets/53941450/129ca327-bbf5-4d9f-a961-76345d8660dd)
